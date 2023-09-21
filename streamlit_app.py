@@ -1,6 +1,6 @@
 {
- cells: [
-  {
+cells: [
+{
    cell_type: code
    execution_count: 1
    metadata: {}
@@ -9,23 +9,23 @@
     import streamlit as st 
     import pandas as pd 
    ]
-  },
+  }
   {
    cell_type: code,
-   execution_count: 2,
-   metadata: {},
+   execution_count: 2
+   metadata: {}
    outputs: [
     {
      name: stderr
      output_type: stream
      text: [
       2023-09-21 14:12:41.315 
-    command:,
+    command:
       
          streamlit run /opt/homebrew/Caskroom/miniconda/base/envs/nf_sql/lib/python3.9/site-packages/ipykernel_launcher.py
      ]
     }
-   ],
+   ]
    source: [
     st.write("""
     # My first app 
