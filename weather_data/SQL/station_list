@@ -1,0 +1,2953 @@
+{
+        "id": "KBFI0",
+        "name": {
+            "en": "Seattle / South Park"
+        },
+        "country": "US",
+        "region": "WA",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KBFI"
+        },
+        "location": {
+            "latitude": 47.53,
+            "longitude": -122.302,
+            "elevation": 6
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1943-10-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1943-10-02",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1944,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+       {
+        "id": "72494",
+        "name": {
+            "en": "San Francisco Airport"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72494",
+            "icao": "KSFO"
+        },
+        "location": {
+            "latitude": 37.6167,
+            "longitude": -122.3667,
+            "elevation": 3
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1945-07-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1945,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72295",
+        "name": {
+            "en": "Los Angeles Airport"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72295",
+            "icao": "KLAX"
+        },
+        "location": {
+            "latitude": 33.9333,
+            "longitude": -118.3833,
+            "elevation": 38
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1944-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1944-01-01",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1944,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72278",
+        "name": {
+            "en": "Phoenix Sky Harbor Airport"
+        },
+        "country": "US",
+        "region": "AZ",
+        "identifiers": {
+            "national": null,
+            "wmo": "72278",
+            "icao": "KPHX"
+        },
+        "location": {
+            "latitude": 33.4333,
+            "longitude": -112.05,
+            "elevation": 345
+        },
+        "timezone": "America/Phoenix",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1933-06-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1933,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72365",
+        "name": {
+            "en": "Albuquerque International  Airport"
+        },
+        "country": "US",
+        "region": "NM",
+        "identifiers": {
+            "national": null,
+            "wmo": "72365",
+            "icao": "KABQ"
+        },
+        "location": {
+            "latitude": 35.0333,
+            "longitude": -106.6,
+            "elevation": 1631
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1941-07-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1931-03-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1931,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KIWS0",
+        "name": {
+            "en": "Houston / Wood Fern"
+        },
+        "country": "US",
+        "region": "TX",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KIWS"
+        },
+        "location": {
+            "latitude": 29.8182,
+            "longitude": -95.6726,
+            "elevation": 34
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2022-05-06",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1985-01-30",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": null,
+                "end": null
+            },
+            "monthly": {
+                "start": null,
+                "end": null
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+    {
+        "id": "72356",
+        "name": {
+            "en": "Tulsa International Airport"
+        },
+        "country": "US",
+        "region": "OK",
+        "identifiers": {
+            "national": null,
+            "wmo": "72356",
+            "icao": "KTUL"
+        },
+        "location": {
+            "latitude": 36.2,
+            "longitude": -95.8881,
+            "elevation": 206
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-07-20",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1947-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-12-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72334",
+        "name": {
+            "en": "Memphis International Airport"
+        },
+        "country": "US",
+        "region": "TN",
+        "identifiers": {
+            "national": null,
+            "wmo": "72334",
+            "icao": "KMEM"
+        },
+        "location": {
+            "latitude": 35.0333,
+            "longitude": -89.9833,
+            "elevation": 102
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1946-10-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1940-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1940,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72223",
+        "name": {
+            "en": "Mobile Regional Airport"
+        },
+        "country": "US",
+        "region": "AL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72223",
+            "icao": "KMOB"
+        },
+        "location": {
+            "latitude": 30.6833,
+            "longitude": -88.0667,
+            "elevation": 66
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72211",
+        "name": {
+            "en": "Tampa International Airport"
+        },
+        "country": "US",
+        "region": "FL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72211",
+            "icao": "KTPA"
+        },
+        "location": {
+            "latitude": 27.9667,
+            "longitude": -82.5333,
+            "elevation": 8
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1940-08-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1939-02-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1939,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72202",
+        "name": {
+            "en": "Miami International Airport"
+        },
+        "country": "US",
+        "region": "FL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72202",
+            "icao": "KMIA"
+        },
+        "location": {
+            "latitude": 25.7833,
+            "longitude": -80.3167,
+            "elevation": 4
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72327",
+        "name": {
+            "en": "Nashville Airport"
+        },
+        "country": "US",
+        "region": "TN",
+        "identifiers": {
+            "national": null,
+            "wmo": "72327",
+            "icao": "KBNA"
+        },
+        "location": {
+            "latitude": 36.1167,
+            "longitude": -86.6833,
+            "elevation": 183
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1951-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72219",
+        "name": {
+            "en": "Hartsfield-Jackson Atlanta"
+        },
+        "country": "US",
+        "region": "GA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72219",
+            "icao": "KATL"
+        },
+        "location": {
+            "latitude": 33.65,
+            "longitude": -84.1,
+            "elevation": 313
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1930-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1930,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72314",
+        "name": {
+            "en": "Charlotte/Douglas International Airport"
+        },
+        "country": "US",
+        "region": "NC",
+        "identifiers": {
+            "national": null,
+            "wmo": "72314",
+            "icao": "KCLT"
+        },
+        "location": {
+            "latitude": 35.214,
+            "longitude": -80.9431,
+            "elevation": 228
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1941-07-22",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1939-07-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1939,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72785",
+        "name": {
+            "en": "Spokane International Airport"
+        },
+        "country": "US",
+        "region": "WA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72785",
+            "icao": "KGEG"
+        },
+        "location": {
+            "latitude": 47.6167,
+            "longitude": -117.5333,
+            "elevation": 723
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1941-08-11",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1889-08-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1889,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72681",
+        "name": {
+            "en": "Boise Air Terminal"
+        },
+        "country": "US",
+        "region": "ID",
+        "identifiers": {
+            "national": null,
+            "wmo": "72681",
+            "icao": "KBOI"
+        },
+        "location": {
+            "latitude": 43.5667,
+            "longitude": -116.2333,
+            "elevation": 871
+        },
+        "timezone": "America/Boise",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1931-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1931-01-01",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1931,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72775",
+        "name": {
+            "en": "Great Falls International"
+        },
+        "country": "US",
+        "region": "MT",
+        "identifiers": {
+            "national": null,
+            "wmo": "72775",
+            "icao": "KGTF"
+        },
+        "location": {
+            "latitude": 47.4667,
+            "longitude": -111.3833,
+            "elevation": 1120
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1937-04-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1937,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KP600",
+        "name": {
+            "en": "Yellowstone / Lake"
+        },
+        "country": "US",
+        "region": "WY",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KP60"
+        },
+        "location": {
+            "latitude": 44.55,
+            "longitude": -110.4167,
+            "elevation": 2368
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1979-03-22",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1980-11-10",
+                "end": "2022-03-15"
+            },
+            "monthly": {
+                "start": 2001,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+    {
+        "id": "72572",
+        "name": {
+            "en": "Salt Lake City International  Airport"
+        },
+        "country": "US",
+        "region": "UT",
+        "identifiers": {
+            "national": null,
+            "wmo": "72572",
+            "icao": "KSLC"
+        },
+        "location": {
+            "latitude": 40.7833,
+            "longitude": -111.9667,
+            "elevation": 1288
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1941-11-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1941-11-01",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1941,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KMIB0",
+        "name": {
+            "en": "Minot / Minot Air Force Base"
+        },
+        "country": "US",
+        "region": "ND",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KMIB"
+        },
+        "location": {
+            "latitude": 48.4158,
+            "longitude": -101.358,
+            "elevation": 508
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1959-10-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1959-10-02",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1959,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2010
+            }
+        }
+    },
+    {
+        "id": "72662",
+        "name": {
+            "en": "Rapid City Regional Airport"
+        },
+        "country": "US",
+        "region": "SD",
+        "identifiers": {
+            "national": null,
+            "wmo": "72662",
+            "icao": "KRAP"
+        },
+        "location": {
+            "latitude": 44.05,
+            "longitude": -103.05,
+            "elevation": 976
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-05-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+      {
+        "id": "71850",
+        "name": {
+            "en": "Kenora Airport"
+        },
+        "country": "CA",
+        "region": "ON",
+        "identifiers": {
+            "national": "51137",
+            "wmo": "71850",
+            "icao": "CYQK"
+        },
+        "location": {
+            "latitude": 49.79,
+            "longitude": -94.36,
+            "elevation": 410
+        },
+        "timezone": "America/Winnipeg",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1955-07-04",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-08-26",
+                "end": "2022-12-11"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72658",
+        "name": {
+            "en": "Minneapolis-St Paul International"
+        },
+        "country": "US",
+        "region": "MN",
+        "identifiers": {
+            "national": null,
+            "wmo": "72658",
+            "icao": "KMSP"
+        },
+        "location": {
+            "latitude": 44.8667,
+            "longitude": -93.05,
+            "elevation": 256
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1945-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-04-09",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KYIP0",
+        "name": {
+            "en": "Detroit / Denton"
+        },
+        "country": "US",
+        "region": "MI",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KYIP"
+        },
+        "location": {
+            "latitude": 42.2393,
+            "longitude": -83.531,
+            "elevation": 218
+        },
+        "timezone": "America/Detroit",
+        "inventory": {
+            "model": {
+                "start": "2021-01-02",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-03",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 2005,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+      {
+        "id": "72405",
+        "name": {
+            "en": "Washington National Airport"
+        },
+        "country": "US",
+        "region": "DC",
+        "identifiers": {
+            "national": null,
+            "wmo": "72405",
+            "icao": "KDCA"
+        },
+        "location": {
+            "latitude": 38.85,
+            "longitude": -77.0333,
+            "elevation": 5
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1936-09-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1936-09-01",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1936,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "CYMX0",
+        "name": {
+            "en": "Montreal / Mirabel"
+        },
+        "country": "CA",
+        "region": "QC",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "CYMX"
+        },
+        "location": {
+            "latitude": 45.6667,
+            "longitude": -74.0333,
+            "elevation": 82
+        },
+        "timezone": "America/Toronto",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1956-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1977-07-05",
+                "end": "2022-04-26"
+            },
+            "monthly": {
+                "start": 2005,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+     {
+        "id": "72534",
+        "name": {
+            "en": "Chicago Midway Airport"
+        },
+        "country": "US",
+        "region": "IL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72534",
+            "icao": "KMDW"
+        },
+        "location": {
+            "latitude": 41.7833,
+            "longitude": -87.75,
+            "elevation": 189
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1928-02-29",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1928,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72421",
+        "name": {
+            "en": "Cincinnati/Northern Ky International"
+        },
+        "country": "US",
+        "region": "KY",
+        "identifiers": {
+            "national": null,
+            "wmo": "72421",
+            "icao": "KCVG"
+        },
+        "location": {
+            "latitude": 39.05,
+            "longitude": -84.6667,
+            "elevation": 273
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72434",
+        "name": {
+            "en": "Lambert-St Louis International  Airport"
+        },
+        "country": "US",
+        "region": "IL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72434",
+            "icao": "KSTL"
+        },
+        "location": {
+            "latitude": 38.75,
+            "longitude": -90.0333,
+            "elevation": 184
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-04-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72446",
+        "name": {
+            "en": "Kansas City International Airport"
+        },
+        "country": "US",
+        "region": "MO",
+        "identifiers": {
+            "national": null,
+            "wmo": "72446",
+            "icao": "KMCI"
+        },
+        "location": {
+            "latitude": 39.2972,
+            "longitude": -94.7306,
+            "elevation": 313
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1972-10-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1972,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72562",
+        "name": {
+            "en": "North Platte Regional Airport"
+        },
+        "country": "US",
+        "region": "NE",
+        "identifiers": {
+            "national": null,
+            "wmo": "72562",
+            "icao": "KLBF"
+        },
+        "location": {
+            "latitude": 41.1167,
+            "longitude": -100.6667,
+            "elevation": 847
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KBKF0",
+        "name": {
+            "en": "Denver / Aurora / Side Creek"
+        },
+        "country": "US",
+        "region": "CO",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KBKF"
+        },
+        "location": {
+            "latitude": 39.7017,
+            "longitude": -104.7517,
+            "elevation": 1726
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1944-03-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1961-03-02",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1961,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2010
+            }
+        }
+    },
+    {
+        "id": "72476",
+        "name": {
+            "en": "Grand Junction Walker Field"
+        },
+        "country": "US",
+        "region": "CO",
+        "identifiers": {
+            "national": null,
+            "wmo": "72476",
+            "icao": "KGJT"
+        },
+        "location": {
+            "latitude": 39.1333,
+            "longitude": -108.5333,
+            "elevation": 1481
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1900-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1900,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KCDC0",
+        "name": {
+            "en": "Cedar City"
+        },
+        "country": "US",
+        "region": "UT",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KCDC"
+        },
+        "location": {
+            "latitude": 37.701,
+            "longitude": -113.0988,
+            "elevation": 1714
+        },
+        "timezone": "America/Denver",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-01",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1981,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1971,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72218",
+        "name": {
+            "en": "Augusta Bush Field"
+        },
+        "country": "US",
+        "region": "GA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72218",
+            "icao": "KAGS"
+        },
+        "location": {
+            "latitude": 33.3667,
+            "longitude": -81.9667,
+            "elevation": 44
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1948-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1942-12-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1942,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KCSG0",
+        "name": {
+            "en": "Columbus / Wayne Terrace"
+        },
+        "country": "US",
+        "region": "GA",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KCSG"
+        },
+        "location": {
+            "latitude": 32.5163,
+            "longitude": -84.9389,
+            "elevation": 121
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1948-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-02",
+                "end": "2022-04-23"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1971,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72207",
+        "name": {
+            "en": "Savannah Airport"
+        },
+        "country": "US",
+        "region": "GA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72207",
+            "icao": "KSAV"
+        },
+        "location": {
+            "latitude": 32.1167,
+            "longitude": -81.0333,
+            "elevation": 16
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1948-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72214",
+        "name": {
+            "en": "Tallahassee Airport"
+        },
+        "country": "US",
+        "region": "FL",
+        "identifiers": {
+            "national": null,
+            "wmo": "72214",
+            "icao": "KTLH"
+        },
+        "location": {
+            "latitude": 30.4,
+            "longitude": -84.0167,
+            "elevation": 25
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1942-05-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1940-03-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1940,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72594",
+        "name": {
+            "en": "Eureka"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72594",
+            "icao": "KEKA"
+        },
+        "location": {
+            "latitude": 40.8,
+            "longitude": -124.1667,
+            "elevation": 13
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "2006-01-01",
+                "end": "2023-07-10"
+            },
+            "daily": {
+                "start": "1941-12-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1941,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KMCC0",
+        "name": {
+            "en": "Sacramento / McClellan Park"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KMCC"
+        },
+        "location": {
+            "latitude": 38.6676,
+            "longitude": -121.4006,
+            "elevation": 23
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1939-11-09",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1941-02-09",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1941,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2010
+            }
+        }
+    },
+    {
+        "id": "72488",
+        "name": {
+            "en": "Reno/Tahoe International  Airport"
+        },
+        "country": "US",
+        "region": "NV",
+        "identifiers": {
+            "national": null,
+            "wmo": "72488",
+            "icao": "KRNO"
+        },
+        "location": {
+            "latitude": 39.4833,
+            "longitude": -119.7667,
+            "elevation": 1345
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1943-01-05",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1937-03-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1937,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "72389",
+        "name": {
+            "en": "Fresno Air Terminal"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72389",
+            "icao": "KFAT"
+        },
+        "location": {
+            "latitude": 36.7833,
+            "longitude": -119.7167,
+            "elevation": 101
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1941-12-04",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1941-12-04",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1942,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72384",
+        "name": {
+            "en": "Bakersfield Meadows Field"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72384",
+            "icao": "KBFL"
+        },
+        "location": {
+            "latitude": 35.4333,
+            "longitude": -119.05,
+            "elevation": 155
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1941-10-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1937-10-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1937,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72290",
+        "name": {
+            "en": "San Diego International Airport"
+        },
+        "country": "US",
+        "region": "CA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72290",
+            "icao": "KSAN"
+        },
+        "location": {
+            "latitude": 32.7333,
+            "longitude": -117.1833,
+            "elevation": 5
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1942-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1939-07-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1939,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "KLMT0",
+        "name": {
+            "en": "Klamath Falls / Falcon Heights"
+        },
+        "country": "US",
+        "region": "OR",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KLMT"
+        },
+        "location": {
+            "latitude": 42.1561,
+            "longitude": -121.7332,
+            "elevation": 1248
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1959-09-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1959-09-02",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1959,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+      {
+        "id": "72694",
+        "name": {
+            "en": "Salem McNary Field"
+        },
+        "country": "US",
+        "region": "OR",
+        "identifiers": {
+            "national": null,
+            "wmo": "72694",
+            "icao": "KSLE"
+        },
+        "location": {
+            "latitude": 44.9,
+            "longitude": -123.0,
+            "elevation": 64
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1892-12-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1892,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "KRDM0",
+        "name": {
+            "en": "Redmond"
+        },
+        "country": "US",
+        "region": "OR",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KRDM"
+        },
+        "location": {
+            "latitude": 44.2541,
+            "longitude": -121.15,
+            "elevation": 939
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1942-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1942-01-02",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1943,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1981,
+                "end": 2010
+            }
+        }
+    },
+     {
+        "id": "KBKE0",
+        "name": {
+            "en": "Baker / Estes (Historical)"
+        },
+        "country": "US",
+        "region": "OR",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KBKE"
+        },
+        "location": {
+            "latitude": 44.8373,
+            "longitude": -117.8091,
+            "elevation": 1028
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-01",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 2001,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+     {
+        "id": "72783",
+        "name": {
+            "en": "Lewiston Nez Perce Co Airport"
+        },
+        "country": "US",
+        "region": "ID",
+        "identifiers": {
+            "national": null,
+            "wmo": "72783",
+            "icao": "KLWS"
+        },
+        "location": {
+            "latitude": 46.3667,
+            "longitude": -117.0167,
+            "elevation": 438
+        },
+        "timezone": "America/Los_Angeles",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72248",
+        "name": {
+            "en": "Shreveport Regional Airport"
+        },
+        "country": "US",
+        "region": "LA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72248",
+            "icao": "KSHV"
+        },
+        "location": {
+            "latitude": 32.45,
+            "longitude": -93.0,
+            "elevation": 79
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1939-07-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1939,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72253",
+        "name": {
+            "en": "San Antonio International  Airport"
+        },
+        "country": "US",
+        "region": "TX",
+        "identifiers": {
+            "national": null,
+            "wmo": "72253",
+            "icao": "KSAT"
+        },
+        "location": {
+            "latitude": 29.5333,
+            "longitude": -98.4667,
+            "elevation": 247
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1946-08-14",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1946-08-14",
+                "end": "2023-09-02"
+            },
+            "monthly": {
+                "start": 1946,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72258",
+        "name": {
+            "en": "Dallas / Oldham"
+        },
+        "country": "US",
+        "region": "TX",
+        "identifiers": {
+            "national": null,
+            "wmo": "72258",
+            "icao": "KDAL"
+        },
+        "location": {
+            "latitude": 32.8471,
+            "longitude": -96.8518,
+            "elevation": 148
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1946-07-26",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1939-08-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1939,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72315",
+        "name": {
+            "en": "Asheville Regional Airport"
+        },
+        "country": "US",
+        "region": "NC",
+        "identifiers": {
+            "national": null,
+            "wmo": "72315",
+            "icao": "KAVL"
+        },
+        "location": {
+            "latitude": 35.4333,
+            "longitude": -82.0333,
+            "elevation": 660
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1946-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1946,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72306",
+        "name": {
+            "en": "Raleigh-Durham International  Airport"
+        },
+        "country": "US",
+        "region": "NC",
+        "identifiers": {
+            "national": null,
+            "wmo": "72306",
+            "icao": "KRDU"
+        },
+        "location": {
+            "latitude": 35.9,
+            "longitude": -78.7667,
+            "elevation": 133
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1945-11-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1944-05-18",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1944,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "KNTU0",
+        "name": {
+            "en": "Virginia Beach / Gatewood Park"
+        },
+        "country": "US",
+        "region": "VA",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KNTU"
+        },
+        "location": {
+            "latitude": 36.8227,
+            "longitude": -76.0319,
+            "elevation": 7
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-01",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1974,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1971,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72302",
+        "name": {
+            "en": "Wilmington / The Palms Mobile Home Park"
+        },
+        "country": "US",
+        "region": "NC",
+        "identifiers": {
+            "national": null,
+            "wmo": "72302",
+            "icao": "KILM"
+        },
+        "location": {
+            "latitude": 34.2706,
+            "longitude": -77.9026,
+            "elevation": 10
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1991-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1948-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1948,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "74756",
+        "name": {
+            "en": "Gainesville / Brittany Estates Mobile Home Park"
+        },
+        "country": "US",
+        "region": "FL",
+        "identifiers": {
+            "national": null,
+            "wmo": "74756",
+            "icao": "KGNV"
+        },
+        "location": {
+            "latitude": 29.6901,
+            "longitude": -82.2718,
+            "elevation": 46
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "2005-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1960-05-17",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1960,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "KFLO0",
+        "name": {
+            "en": "Florence / Malibu"
+        },
+        "country": "US",
+        "region": "SC",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KFLO"
+        },
+        "location": {
+            "latitude": 34.1854,
+            "longitude": -79.7239,
+            "elevation": 45
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-01",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1999,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1991,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72528",
+        "name": {
+            "en": "Buffalo Airport"
+        },
+        "country": "US",
+        "region": "NY",
+        "identifiers": {
+            "national": null,
+            "wmo": "72528",
+            "icao": "KBUF"
+        },
+        "location": {
+            "latitude": 42.9333,
+            "longitude": -78.7333,
+            "elevation": 221
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1942-02-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-05-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72519",
+        "name": {
+            "en": "Syracuse Hancock International  Airport"
+        },
+        "country": "US",
+        "region": "NY",
+        "identifiers": {
+            "national": null,
+            "wmo": "72519",
+            "icao": "KSYR"
+        },
+        "location": {
+            "latitude": 43.1167,
+            "longitude": -76.1,
+            "elevation": 125
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1942-10-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-05-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72518",
+        "name": {
+            "en": "Albany International Airport"
+        },
+        "country": "US",
+        "region": "NY",
+        "identifiers": {
+            "national": null,
+            "wmo": "72518",
+            "icao": "KALB"
+        },
+        "location": {
+            "latitude": 42.75,
+            "longitude": -73.1333,
+            "elevation": 87
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1946-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1938-06-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1938,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "72509",
+        "name": {
+            "en": "Boston Logan International"
+        },
+        "country": "US",
+        "region": "MA",
+        "identifiers": {
+            "national": null,
+            "wmo": "72509",
+            "icao": "KBOS"
+        },
+        "location": {
+            "latitude": 42.3667,
+            "longitude": -71.0167,
+            "elevation": 6
+        },
+        "timezone": "America/New_York",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1943-11-21",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1936-01-01",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1936,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+       {
+        "id": "KLRF0",
+        "name": {
+            "en": "Little Rock / Jacksonville / Macon"
+        },
+        "country": "US",
+        "region": "AR",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KLRF"
+        },
+        "location": {
+            "latitude": 34.9168,
+            "longitude": -92.1465,
+            "elevation": 95
+        },
+        "timezone": "America/Chicago",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1956-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1956-02-22",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1956,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2010
+            }
+        }
+    },
+       {
+        "id": "KJXN0",
+        "name": {
+            "en": "Jackson / Coffman Trailer Court"
+        },
+        "country": "US",
+        "region": "MI",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "KJXN"
+        },
+        "location": {
+            "latitude": 42.2604,
+            "longitude": -84.4604,
+            "elevation": 305
+        },
+        "timezone": "America/Detroit",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1973-01-03",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 2000,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1991,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "70273",
+        "name": {
+            "en": "Anchorage Ted Stevens Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70273",
+            "icao": "PANC"
+        },
+        "location": {
+            "latitude": 61.1667,
+            "longitude": -150.0333,
+            "elevation": 44
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1952-04-01",
+                "end": "2023-08-31"
+            },
+            "monthly": {
+                "start": 1951,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "70340",
+        "name": {
+            "en": "Iliamna Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70340",
+            "icao": "PAIL"
+        },
+        "location": {
+            "latitude": 59.75,
+            "longitude": -154.9167,
+            "elevation": 63
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1920-02-11",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1920,
+                "end": 2021
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+     {
+        "id": "70362",
+        "name": {
+            "en": "Skagway Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70362",
+            "icao": "PAGY"
+        },
+        "location": {
+            "latitude": 59.4667,
+            "longitude": -135.3167,
+            "elevation": 13
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1943-10-01",
+                "end": "2023-09-02"
+            },
+            "daily": {
+                "start": "1898-11-01",
+                "end": "2023-08-30"
+            },
+            "monthly": {
+                "start": 1898,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1981,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "70261",
+        "name": {
+            "en": "Fairbanks Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70261",
+            "icao": "PAFA"
+        },
+        "location": {
+            "latitude": 64.8,
+            "longitude": -147.8667,
+            "elevation": 132
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1946-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1929-12-01",
+                "end": "2023-08-31"
+            },
+            "monthly": {
+                "start": 1929,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+    {
+        "id": "70194",
+        "name": {
+            "en": "Fort Yukon Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70194",
+            "icao": "PFYU"
+        },
+        "location": {
+            "latitude": 66.5667,
+            "longitude": -145.2667,
+            "elevation": 433
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1899-01-01",
+                "end": "2022-04-24"
+            },
+            "monthly": {
+                "start": 1899,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 1990
+            }
+        }
+    },
+    {
+        "id": "70030",
+        "name": {
+            "en": "Wainwright Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70030",
+            "icao": "PAWI"
+        },
+        "location": {
+            "latitude": 70.6333,
+            "longitude": -160.0333,
+            "elevation": 9
+        },
+        "timezone": "America/Nome",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "2005-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1935-09-20",
+                "end": "2023-08-30"
+            },
+            "monthly": {
+                "start": 1935,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1981,
+                "end": 2020
+            }
+        }
+    },
+      {
+        "id": "70219",
+        "name": {
+            "en": "Bethel Airport"
+        },
+        "country": "US",
+        "region": "AK",
+        "identifiers": {
+            "national": null,
+            "wmo": "70219",
+            "icao": "PABE"
+        },
+        "location": {
+            "latitude": 60.7833,
+            "longitude": -161.8333,
+            "elevation": 37
+        },
+        "timezone": "America/Juneau",
+        "inventory": {
+            "model": {
+                "start": "2018-01-28",
+                "end": "2023-09-15"
+            },
+            "hourly": {
+                "start": "1945-01-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1923-08-01",
+                "end": "2023-08-31"
+            },
+            "monthly": {
+                "start": 1923,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1961,
+                "end": 2020
+            }
+        }
+    },
+      {
+        "id": "71954",
+        "name": {
+            "en": "Tuktoyaktuk"
+        },
+        "country": "CA",
+        "region": "MB",
+        "identifiers": {
+            "national": null,
+            "wmo": null,
+            "icao": "CYUB"
+        },
+        "location": {
+            "latitude": 69.45,
+            "longitude": -133.0167,
+            "elevation": 5
+        },
+        "timezone": "America/Inuvik",
+        "inventory": {
+            "model": {
+                "start": "2021-01-01",
+                "end": "2023-09-14"
+            },
+            "hourly": {
+                "start": "1977-07-01",
+                "end": "2023-09-05"
+            },
+            "daily": {
+                "start": "1981-07-04",
+                "end": "2023-09-01"
+            },
+            "monthly": {
+                "start": 1996,
+                "end": 2022
+            },
+            "normals": {
+                "start": 1981,
+                "end": 2020
+            }
+        }
+    },
+    
