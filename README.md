@@ -10,12 +10,18 @@ In this data analyst capstone project, we embarked on a comprehensive exploratio
 Key Objectives:
 
 Temperature and Wildfires: We delved into the relationship between temperature fluctuations and wildfire occurrences. By examining the data, we aimed to identify patterns in temperature increases and how they impact the frequency and severity of wildfires.
+
 Precipitation and Wildfires: We investigated the role of precipitation in wildfire occurrence. Our analysis sought to uncover any correlations between rainfall patterns and the likelihood of wildfires, with a focus on identifying regions vulnerable to dry conditions.
+
 Seasonal Analysis: A critical aspect of our research was determining whether the summer months exhibited the highest wildfire activity. Seasonal variations are a significant factor in wildfire occurrences, and we aimed to provide insights into when and where these incidents peak.
+
 Human Causation: We explored the human factor in wildfires. We aimed to determine to what extent human activities are responsible for igniting wildfires. This analysis included assessing the impact of human negligence, arson, and accidental causes.
+
+
 Deliverables:
 
 Our project culminated in a detailed presentation that encompasses all our findings and recommendations. The presentation offers a comprehensive analysis of the data, complete with visualizations and statistical insights. It not only highlights the relationships between temperature, precipitation, seasonality, and wildfires but also addresses the human element in wildfire causes.
+
 
 Significance:
 
